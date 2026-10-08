@@ -1,0 +1,7 @@
+groq
+pinecone
+python-dotenv
+requests
+feedparser
+streamlit>=1.40
+gTTS
